@@ -1,0 +1,2 @@
+org.fireflyframework.eda.config.FireflyEdaKafkaPublisherAutoConfiguration
+org.fireflyframework.eda.config.FireflyEdaKafkaConsumerAutoConfiguration
